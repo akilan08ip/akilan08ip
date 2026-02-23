@@ -1,16 +1,13 @@
-## Hi there 👋
+<h1 align="center">
 
-<!--
-**akilan08ip/akilan08ip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+00111100   01111110   01111110   01100000   00111100   01101110  
+01000010   01001000   00010000   01100000   01000010   01110010  
+01111110   01010000   00010000   01100000   01111110   01101010  
+01000010   01100000   00010000   01100000   01000010   01100110  
+01000010   01010000   01111110   01111110   01000010   01100010  
 
-Here are some ideas to get you started:
+</h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+<img src="https://i.imgur.com/8MupZHY.gif" width="800"/>
+</p>
